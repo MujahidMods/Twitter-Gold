@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "8",
     "reminder_time": "3",
     "update_version": "v2.70",
     "com.twitter.android": "https://www.mjwhats.com/2024/08/twitter-gold-plus.html",
